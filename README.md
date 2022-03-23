@@ -42,6 +42,7 @@ website are part of this list.
   * [iOS Developer Nanodegree](#ios-developer-nanodegree)
   * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
   * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
+  * [Algorithims And Data Structure](#algorithims-and-data-structure)
 
 
 ---
